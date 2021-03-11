@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaServicio.API.Author", "TiendaServicio.API.Author\TiendaServicio.API.Author.csproj", "{22DE4786-BC6A-4222-BE32-9DE8093BB769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaServicios.Api.Libro", "TiendaServicios.Api.Libro\TiendaServicios.Api.Libro.csproj", "{8707A067-B643-4AD4-85AA-D66ECF9B8020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DE4786-BC6A-4222-BE32-9DE8093BB769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DE4786-BC6A-4222-BE32-9DE8093BB769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DE4786-BC6A-4222-BE32-9DE8093BB769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DE4786-BC6A-4222-BE32-9DE8093BB769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8707A067-B643-4AD4-85AA-D66ECF9B8020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8707A067-B643-4AD4-85AA-D66ECF9B8020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8707A067-B643-4AD4-85AA-D66ECF9B8020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8707A067-B643-4AD4-85AA-D66ECF9B8020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {401FB432-AC9C-45A1-A31C-242869221BD3}
+	EndGlobalSection
+EndGlobal
